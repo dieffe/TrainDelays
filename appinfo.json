@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "6ffb4da4-284b-4e0d-9d22-63776f6529ab",
+    "appKeys": {},
+    "longName": "Train Alerts",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "TrainAlerts",
+    "companyName": "dieffe@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
